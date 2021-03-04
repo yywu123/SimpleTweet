@@ -46,6 +46,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Use Parcelable instead of Serializable using the popular Parceler library. 
 
 ---
